@@ -1,0 +1,9 @@
+utils\DBConnect.class
+controller\LoginServlet.class
+dao\DBConnection.class
+controller\LogoutServlet.class
+service\UserService.class
+dao\UserDao.class
+controller\RegisterServlet.class
+dao\CategoryDao.class
+model\User.class
